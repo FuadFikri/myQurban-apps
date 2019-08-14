@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyQurban</string>
+    <string name="jenis_hewan">jenis hewan</string>
+    <string name="harga">harga</string>
+    <string name="myName">Fuad Fikri Syamsudin</string>
+    <string name="myEmail">fuadfikri01@gmail.com</string>
+</resources>
